@@ -287,7 +287,7 @@ button{
 }
 .models{
     width:255px;
-    height: 344px;
+    padding: 14px;
     display: inline-block;
 }
 .рубль{
@@ -359,6 +359,7 @@ p{
 }
 .квадрат{
     width: 150px;
+    margin-left: 30px;
     display: inline-flex;
 }
 .lorem{
@@ -435,4 +436,22 @@ background: #D7B399;
 }
 .down{
     padding-top: 20px;
+}
+.about{
+    width: 300px;
+    padding: 0 0 30px 0;
+}
+.all{
+    display: flex;
+}
+.все{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0 30px;
+}
+.icon{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 0 0 1px 1px;
+    color: #D7B399;
 }
